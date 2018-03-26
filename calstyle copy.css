@@ -1,0 +1,54 @@
+/*might not need*/
+.weekday{
+  list-style: none;
+  border-width: thin;
+  border-color: #000000;
+  border-style: solid;
+  display:inline-block;
+  width: 13.9%;
+  text-align: center;
+}
+
+/*might not need*/
+.day{
+  list-style: none;
+  border-width: thin;
+  border-color: #000000;
+  border-style: solid;
+  display:inline-block;
+  width: 13.9%;
+  height: 10em;
+  text-align: left;
+}
+
+#month{
+  padding: 2em;
+}
+
+/*formats the login button*/
+#login{
+  border: none;
+  display: inline-block;
+
+  float: right;
+}
+h1{
+  display: inline;
+}
+
+/*formats the popup display*/
+.popup{
+  display: block;
+  margin: .5em;
+}
+
+li{
+  border-width: thin;
+  border-color: #000000;
+  border-style: solid;
+  display:inline-block;
+}
+
+td{
+  overflow: hidden;
+}
